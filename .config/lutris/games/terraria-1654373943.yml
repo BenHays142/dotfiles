@@ -1,0 +1,7 @@
+game:
+  exe: /home/bhays/Games/Terraria/nstart.sh
+linux: {}
+system:
+  game_path: ~/Games/Terraria
+  gamemode: true
+  mangohud: true

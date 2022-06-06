@@ -1,0 +1,18 @@
+00:00:00.170050 VirtualBox GUI VM Selector Window 6.1.34 r150636 linux.amd64 (May 30 2022 06:37:05) release log
+00:00:00.170051 Log opened 2022-06-06T20:30:39.642013000Z
+00:00:00.170052 Build Type: release
+00:00:00.170053 OS Product: Linux
+00:00:00.170053 OS Release: 5.18.1-arch1-1
+00:00:00.170054 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 30 May 2022 17:53:11 +0000
+00:00:00.170064 DMI Product Name: B550 UD AC
+00:00:00.170069 DMI Product Version: Default string
+00:00:00.170072 Firmware type: UEFI
+00:00:00.170111 Secure Boot: Disabled
+00:00:00.170129 Host RAM: 16003MB (15.6GB) total, 13102MB (12.7GB) available
+00:00:00.170131 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.170131 Process ID: 16225
+00:00:00.170131 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.170145 Qt version: 5.15.4
+00:00:00.177783 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.381621 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1920x1054
+00:00:00.390999 GUI: UIMediumEnumerator: Medium-enumeration finished!

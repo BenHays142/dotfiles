@@ -1,0 +1,3 @@
+game:
+  args: -jar '/home/bhays/Games/minecraft/TLauncher-2.82.jar'
+  exe: jre1.8.0_191/bin/java
